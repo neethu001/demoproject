@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
-</head>
 <body>
-enter name: 
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h2>HTML Buttons</h2>
+<p>HTML buttons are defined with the button tag:</p>
+
+<button><a>Click me</a></button>
 
 </body>
 </html>
-
